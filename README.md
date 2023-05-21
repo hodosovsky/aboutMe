@@ -1,8 +1,8 @@
-<!-- ![Header](https://github.com/volodymyr-ok/volodymyr-ok/blob/main/assets/header.gif) -->
+![Header](https://www.bleepstatic.com/content/hl-images/2021/01/26/coder-header.jpg)
 
 <h1 align="center">I'm an experienced fullstack developer from Ukraine💛💙</h1>
 
-<img align="right" alt="coding" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" />
+<img align="right" alt="coding" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
 
 - 👨‍💻 I’m currently learning **TypeScript & NEXT.js**
 
@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
+  <br />
   <br />
 
   <a href="https://www.codewars.com/users/hodosovsky" target="_blank">
