@@ -1,6 +1,6 @@
 <!-- ![Header](https://github.com/volodymyr-ok/volodymyr-ok/blob/main/assets/header.gif) -->
 
-<h1 align="centerI'm an experienced fullstack developer from Ukraine💛💙</h1>
+<h1 align="center">I'm an experienced fullstack developer from Ukraine💛💙</h1>
 
 - 👨‍💻 I’m currently learning **TypeScript & NEXT.js**
 
