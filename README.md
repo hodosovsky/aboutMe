@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
-  <a href="https://www.facebook.com/muxacuk/" target="_blank">
+  <a href="https://www.codewars.com/users/hodosovsky" target="_blank">
     <img src="https://www.codewars.com/users/hodosovsky" />
      <img src="https://www.codewars.com/users/hodosovsky/badges/small" alt="Codewars Profile Badges"/>
   </a>
