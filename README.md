@@ -25,7 +25,10 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
-  <img src="https://www.codewars.com/users/hodosovsky/badges/micro" alt="Codewars Profile Badges"/>
+  <a href="https://www.facebook.com/muxacuk/" target="_blank">
+    <img src="https://www.codewars.com/users/hodosovsky" />
+     <img src="https://www.codewars.com/users/hodosovsky/badges/small" alt="Codewars Profile Badges"/>
+  </a>
 
 </div>
   
