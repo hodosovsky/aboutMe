@@ -2,6 +2,8 @@
 
 <h1 align="center">I'm an experienced fullstack developer from Ukraine💛💙</h1>
 
+<img align="right" alt="coding" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" />
+
 - 👨‍💻 I’m currently learning **TypeScript & NEXT.js**
 
 - 🤝 Know about me <a href="https://drive.google.com/file/d/1n0ts6xGY61VjHKtecICnmk_wYDlWBjpM/view?usp=share_link" target="_blank">in my CV<a/>
@@ -25,9 +27,10 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
+  <br />
+
   <a href="https://www.codewars.com/users/hodosovsky" target="_blank">
-    <img src="https://www.codewars.com/users/hodosovsky" />
-     <img src="https://www.codewars.com/users/hodosovsky/badges/small" alt="Codewars Profile Badges"/>
+        <img src="https://www.codewars.com/users/hodosovsky/badges/small" alt="Codewars Profile Badges"/>
   </a>
 
 </div>
