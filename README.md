@@ -1,12 +1,10 @@
 <!-- ![Header](https://github.com/volodymyr-ok/volodymyr-ok/blob/main/assets/header.gif) -->
 
-<h1 align="center">Welcome, I'm an inspired fullstack developer from 💙Ukraine💛</h1>
+<h1 align="centerI'm an experienced fullstack developer from Ukraine💛💙</h1>
 
 - 👨‍💻 I’m currently learning **TypeScript & NEXT.js**
 
 - 🤝 Know about me <a href="https://drive.google.com/file/d/1n0ts6xGY61VjHKtecICnmk_wYDlWBjpM/view?usp=share_link" target="_blank">in my CV<a/>
-
-- 🔮 Fun fact **I'm fond of creativity and programming gives me one more option to create something.**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -26,6 +24,11 @@
  <a href="https://www.facebook.com/muxacuk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+
+   <a href=" https://www.codewars.com/users/hodosovsky/badges/large" target="_blank">
+    <img src=" https://www.codewars.com/users/hodosovsky/badges/large" height="35" alt="gmail logo"  />
+  </a>
+
 </div>
   
 <h3 align="left">Languages and Tools:</h3>
