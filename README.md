@@ -30,7 +30,7 @@
   <br />
   <br />
 
-  <a href="https://www.codewars.com/users/hodosovsky" target="_blank">
+  <a align="center" href="https://www.codewars.com/users/hodosovsky" target="_blank">
         <img src="https://www.codewars.com/users/hodosovsky/badges/small" alt="Codewars Profile Badges"/>
   </a>
 
